@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f749b38a-2af0-40cf-a9d9-f17bef58ad76" name="默认更改列表" comment="" />
+    <list default="true" id="f749b38a-2af0-40cf-a9d9-f17bef58ad76" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589294785939</updated>
-      <workItem from="1589294790238" duration="1110000" />
+      <workItem from="1589294790238" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="这是ideal提交">
       <created>1589294935911</created>
@@ -153,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589295899840" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1589294958463">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1589296436811">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589294958463" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589296436811" />
     <state x="564" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589295453223">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
